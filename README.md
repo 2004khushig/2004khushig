@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
-<h3 align="center">I am a **Full Stack Developer** with expertise in both **frontend and backend** technologies. I specialize in building scalable, high-performance web applications using **modern frameworks, databases, and cloud services**. With a strong understanding of **UI/UX, APIs, and MERN, I create seamless and efficient digital experiences. Passionate about coding, problem-solving, and staying updated with the latest tech trends. 🚀</h3>
+<h3 align="center">I am a Full Stack Developer with expertise in both frontend and backend technologies. I specialize in building scalable, high-performance web applications using modern frameworks, databases, and cloud services. With a strong understanding of UI/UX, APIs, and MERN, I create seamless and efficient digital experiences. Passionate about coding, problem-solving, and staying updated with the latest tech trends. 🚀</h3>
 
 - 🌱 I’m currently learning **Devops and Blockchain**
 
